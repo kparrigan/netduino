@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternetConnectivity", "Int
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empty", "Empty\Empty.csproj", "{BB0BDAD5-542D-48A8-86EE-5F3375114F04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleServo", "SingleServo\SingleServo.csproj", "{09FDBD01-D3FF-4F42-BE3A-253B33945698}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,12 @@ Global
 		{BB0BDAD5-542D-48A8-86EE-5F3375114F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB0BDAD5-542D-48A8-86EE-5F3375114F04}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BB0BDAD5-542D-48A8-86EE-5F3375114F04}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{09FDBD01-D3FF-4F42-BE3A-253B33945698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09FDBD01-D3FF-4F42-BE3A-253B33945698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09FDBD01-D3FF-4F42-BE3A-253B33945698}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{09FDBD01-D3FF-4F42-BE3A-253B33945698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09FDBD01-D3FF-4F42-BE3A-253B33945698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09FDBD01-D3FF-4F42-BE3A-253B33945698}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
